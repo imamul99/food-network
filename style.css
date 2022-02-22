@@ -9,7 +9,7 @@ h1 {
 }
 
 h2 {
-    font-size: 40px;
+    font-size: 30px;
 }
 
 .orange-color {
@@ -26,9 +26,7 @@ h2 {
     padding-left: 2%;
     padding-right: 5%;
     margin-top: 5%;
-    text-align: justify;
-
-
+    text-align: justify
 }
 
 .half-width img {
@@ -47,18 +45,12 @@ h2 {
 .about-area {
     background-image: url(images/frame-1.jpg);
     background-repeat: no-repeat;
-
 }
 
 
-.primary-h1 {
+.service-head {
     text-align: center;
 }
-
-.primary-para {
-    text-align: center;
-}
-
 
 .food-item {
     width: 80%;
@@ -71,9 +63,15 @@ h2 {
 }
 
 .food-item img {
-
     height: 300px;
     width: 300px;
     border-radius: 20px;
 
 }
+
+.footer-content {
+    height: auto;
+    padding-top: 10px;
+    text-align: center;
+    color: whitesmoke;
+    background-color: black;
